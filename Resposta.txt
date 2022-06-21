@@ -1,0 +1,2 @@
+Tipo genérico é um elemento adaptável para executar a mesma função para tipos de dados diferentes,
+não sendo necessário, ao definir um procedimento/classe, criar uma versão separada para cada tipo de dados.
